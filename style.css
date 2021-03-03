@@ -1,0 +1,33 @@
+h1 {
+    color: #1b2353;
+    font-size: 50px;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color: rgb(125, 172, 224);
+    display: flex;
+    justify-content: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: thick; 
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #6aa3b1;
+    border-style: ridge;
+    border-width: 10px;
+}
